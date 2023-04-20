@@ -72,3 +72,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+#nprogress .bar {
+  background: hsla(160, 100%, 37%, 1);;
+}
